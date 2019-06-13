@@ -12079,11 +12079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\EmployeeManagement1\\EmployeeManagement1\\EmployeeManagement1.csproj",
+      "projectUniqueName": "C:\\proj\\EmployeeManagement1\\EmployeeManagement1\\EmployeeManagement1.csproj",
       "projectName": "EmployeeManagement1",
-      "projectPath": "C:\\Projects\\EmployeeManagement1\\EmployeeManagement1\\EmployeeManagement1.csproj",
+      "projectPath": "C:\\proj\\EmployeeManagement1\\EmployeeManagement1\\EmployeeManagement1.csproj",
       "packagesPath": "C:\\Users\\zoran.vulanovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\EmployeeManagement1\\EmployeeManagement1\\obj\\",
+      "outputPath": "C:\\proj\\EmployeeManagement1\\EmployeeManagement1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
