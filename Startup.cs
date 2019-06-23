@@ -78,12 +78,18 @@ namespace EmployeeManagement1
 			//});
 			//app.UseFileServer();
 			app.UseStaticFiles();
-			app.UseMvcWithDefaultRoute();
+			//app.UseMvcWithDefaultRoute();
 
-			app.Run(async (context) =>
-			{
-				await context.Response.WriteAsync("Hello World!");
-			});
+			//app.UseMvc(routes=> {
+			//	routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
+			//});
+
+			app.UseMvc();
+
+			//app.Run(async (context) =>
+			//{
+			//	await context.Response.WriteAsync("Hello World!");
+			//});
 			
 
 		}
